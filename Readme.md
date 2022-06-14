@@ -1,7 +1,7 @@
 # Notas app
 
-The challenge is to create a page, using grid and animations.
-
+ Teste prático.
+ 
 [![Linkedin Badge](https://img.shields.io/badge/-JonasMartins-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/jonas-martins-950a30184/)](https://www.linkedin.com/in/jonas-martins-950a30184/)
 
 
