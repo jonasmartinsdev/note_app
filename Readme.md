@@ -69,7 +69,7 @@ Clonar Projeto e acesar pasta e iniciar o servidor é necessário ter nodeJs ins
 Clone o projeto e acesso a pasta e execute
 
 ```bash
-$ git clone https://github.com/jonasmartinsdev/notes_app.git
+$ https://github.com/jonasmartinsdev/note_app.git
 $ cd api
 ```
 Com o nodejs instalado execute as migrations e defina as variável de ambiente e inicie o servidor
