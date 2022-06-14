@@ -64,7 +64,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 #### BACKEND
 
-Clonar Projeto e acesar pasta e iniciar o servidor é necessário ter nodeJs instalado e o Visual Studio Code.
+Clonar Projeto e acesar pasta e iniciar o servidor é necessário ter nodeJs instalado.
 
 Clone o projeto e acesso a pasta e execute
 
